@@ -598,7 +598,7 @@ This project can answer questions such as:
 
 # 👨‍💻 Author
 
-**Thakur0012**
+**Purushottam Thakur**
 
 GitHub:  
 https://github.com/Thakur0012
