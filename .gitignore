@@ -1,0 +1,18 @@
+# MySQL local / temporary files
+*.log
+*.tmp
+*.bak
+
+# MySQL Workbench
+*.mwb.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Temporary SQL exports
+*.sql.bak
